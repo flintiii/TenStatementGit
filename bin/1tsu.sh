@@ -2,6 +2,9 @@
 # Tue 14 Feb 2023 01:56:12 PM EST 
 version="0.01"
 #
+apt-get install git
+adduser flint
+cd ~flint
 # echo "# TenStatementGit" >> README.md#
 cd /home/flint/TenStatementGit; pwd 
 # git init
