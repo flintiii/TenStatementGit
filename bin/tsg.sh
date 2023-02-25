@@ -68,6 +68,10 @@ uroot
 # git remote add origin git@github.com:flintiii/TenStatementGit.git
 # git branch -M main
 # git push -u origin main
+apt-get update;
+apt-get install python3 \
+python3-pyqt5 \
+python3-pyqt5.qtwebengine
 
 # Na... Not yet, start with a clone...
 echo "# TenStatementGit starts 2023-02-14" >> README.md
@@ -110,7 +114,11 @@ function wierd(){
 # which must end in sh executable and then
 # then the function adds two symlinks to the first element
 # of the $PATH variable linking the argument and the argument suffixed with "sh"
-# both linked to the second script element (hopefully /usr/local/bin).
+# both linkeapt-get update;
+apt-get install python3 \
+python3-pyqt5 \
+python3-pyqt5.qtwebengine
+d to the second script element (hopefully /usr/local/bin).
 # echo  "into root"
 # sudo bash
 # echo  "outa root"
